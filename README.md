@@ -1,14 +1,5 @@
 # Final Assignment
 
-### Status
-
-Once you are finished with the final assignment, edit this readme and add "x" to the correct box:
-
-* [x] Submitted
-
-* [ ] I'm still working on my final assignment. 
-
-
 ## Topic: 
 
 # Forest area left in naturally forested ecoregions of Europe
