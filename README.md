@@ -1,7 +1,13 @@
 # Portfolio
 
 Some of my work made on Automating GIS -course 2019! 
-Topics are of my own choice.
+Topics are of my own choice.   
+
+Probably more content coming in future :)   
+    
+
+_______________________________________________________________________________________________________________________________
+
 
 ### 01/2020 - Course independent final assignment/ raster analysis: 
  
