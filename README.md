@@ -8,6 +8,10 @@ Naturally Europe would be largely covered by forests, but human influence has le
 
 Ecoregions are sub-categories of world biomes defined by WWF, all of them having their own distinct ecological features. In Europe there are about 50 ecoregions, of which about 40 are named as different kinds of forests. Categories refer to potential vegetation, and nowadays in many forest ecoregions the actual forest cover is small. This will be visualized in following  maps and graphs. Results could be used to identify forest types and distinctive natural environments that are the most threatened.
 
+### Notebooks:
+
+- FinalForest1_preparations
+- FinalForest2_analysis
 
 ### Input data:
 
@@ -24,7 +28,7 @@ https://sdi.eea.europa.eu/catalogue/srv/eng/catalog.search#/metadata/afe358ed-2c
 - **Download link**. In this assignment downloaded to folder "data/forest":  
 https://www.eea.europa.eu/data-and-maps/data/european-forest-areas-based-on/european-forest-areas-based-on/forest-area-2015/at_download/file 
 
-I do not know if empty folders can be downloaded to git? If they are not there, necessary folders must be created and named as instructed.
+Necessary folderpaths are created in the beginning of "FinalForest1_preparations" notebook.
 
  ![Forestraster](https://autogis-2019.github.io/exercise-5-tyttijussila/forestraster.png)
 
