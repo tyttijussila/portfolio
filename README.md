@@ -1,9 +1,6 @@
 # Portfolio
 
-Some of my work made on Automating GIS -course 2019! 
-Topics are of my own choice.   
-
-Probably more content coming in future :)   
+Some experimental GIS-analysis performed on Automating GIS -course 2019.
     
 
 _______________________________________________________________________________________________________________________________
